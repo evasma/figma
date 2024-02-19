@@ -8,7 +8,6 @@ header .navbar {
   header .navbar nav {
     width: 100%;
     text-align: center;
-    box-shadow:0 5px 25px lightgray;
     padding: 0 !important;
   }
   header .navbar nav .logo {
@@ -65,7 +64,7 @@ header .navbar {
     display: block;
     text-decoration: none;
     font-family: Poppins;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 500;
     color: white;
